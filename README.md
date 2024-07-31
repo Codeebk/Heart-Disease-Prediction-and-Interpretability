@@ -10,10 +10,7 @@ This project demonstrates the use of machine learning techniques to predict hear
 
 ## Project Structure
 
-- `data/`: Directory to store datasets.
-- `notebooks/`: Jupyter notebooks containing the analysis.
-- `models/`: Directory to save trained models.
-- `results/`: Directory to save results and plots.
+- `my-project.ipynb`: notebook
 - `README.md`: Project overview and instructions.
 
 ## Setup Instructions
